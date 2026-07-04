@@ -1,4 +1,5 @@
 PythonInternship
+
 Codsoft Python Internship – Project Collection This repository contains Python programs I developed during my Codsoft Python Internship, focusing on problem-solving, logical thinking, and hands-on coding. Each program demonstrates the application of Python fundamentals, control structures, and standard libraries to build functional solutions. Project Overview
 
 Basic Calculator Description: A command-line calculator that performs addition, subtraction, multiplication, division, and modulo operations based on user input. Skills Applied: *User input handling with input() and type casting *Conditional statements (if, elif, else) for operation selection *Arithmetic operators for computation *Output formatting for results.
